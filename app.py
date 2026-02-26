@@ -147,4 +147,4 @@ with st.sidebar:
     """)
     st.markdown("---")
     st.markdown("Built by **Kushagra Shekhar Kaushik**")
-    st.markdown("[GitHub](https://github.com/kushagrakaushik1k/heart-disease-prediction)")
+    st.markdown("[GitHub](https://github.com/kushagrakaush1k/heart-disease-prediction)")
